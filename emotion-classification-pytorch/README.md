@@ -57,3 +57,8 @@ curl -X POST http://localhost:8000/predict \
 | `ARTIFACTS_DIR` | `./artifacts` | Directory containing `model_info.json` and model weights |
 | `MAX_TEXT_CHARS` | `1000` | Maximum allowed characters per input text |
 | `MAX_BATCH_SIZE` | `64` | Maximum texts allowed per batch request |
+
+
+https://github.com/user-attachments/assets/379ceae2-16fd-47f5-8791-f963b56746cf
+
+
