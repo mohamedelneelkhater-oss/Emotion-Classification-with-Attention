@@ -3,7 +3,7 @@
 
 End-to-end deep learning project for 6-class emotion classification (`sadness`, `joy`, `love`, `anger`, `fear`, `surprise`) built purely with **PyTorch**, featuring model comparison, attention visualization, and a production-ready **FastAPI + Gradio** deployment service.
 ## Kaggle Notebook & Dataset
-- **Full Training Notebook:** [View & Run on Kaggle]([YOUR_KAGGLE_NOTEBOOK_URL](https://www.kaggle.com/code/mohamedelneel/emotion-classification-with-attention))
+- **Full Training Notebook:** [View & Run on Kaggle]([YOUR_KAGGLE_NOTEBOOK_URL](https://www.kaggle.com/code/mohamedelneel/emotion-classification-with-attention)]
 
 
 ## Model Comparison (Test Set)
